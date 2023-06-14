@@ -32,11 +32,19 @@
 
 ## Input:
 
+![WhatsApp Image 2023-06-13 at 18 32 49](https://github.com/gururamu08/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707009/91c2307b-80c4-4902-b045-965a7abd4f8a)
+
+
+
+
 ### Output:
 
+![WhatsApp Image 2023-06-13 at 18 29 28](https://github.com/gururamu08/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707009/e787d590-0372-4918-b226-e2429db829fb)
 
-### Name:
-### Register Number:
+
+
+### Name: NAVEEN KUMAR P
+### Register Number: 212222230092
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
